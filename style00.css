@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(228, 4, 4);
+}
+
+.painel{
+    margin: auto;
+    background-color: rgb(250, 239, 239);
+    width: 800px;
+    height: 600px;
+    border-radius: 20px;
+    text-align: center;
+    padding-top: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#はい{
+    height: 60px;
+    width: 70px;
+    background-color: rgb(228, 4, 4);
+    border: 2px solid black;
+    border-radius: 20px;
+    color: white;
+    margin-left: -150px;
+}
+#いいえ{
+    position: absolute;
+    height: 60px;
+    width: 70px;
+    background-color: rgb(228, 4, 4);
+    border: 2px solid black;
+    border-radius: 20px;
+    color: white;
+    margin-left: 80px;
+}
